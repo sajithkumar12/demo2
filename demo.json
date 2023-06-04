@@ -1,0 +1,39 @@
+{
+  "Rowsets": {
+    "DateCreated": "2023-05-28T11:25:14",
+    "Version": "15.1 SP6 Patch 46 (Sep 20, 2019)",
+    "StartDate": "2023-05-28T10:25:14+0400",
+    "EndDate": "2023-05-28T11:25:14+0400",
+    "CachedTime": "",
+    "Rowset": [
+      {
+        "Columns": {
+          "Column": [
+            {
+              "Name": "Status",
+              "SourceColumn": "Status",
+              "Description": "",
+              "SQLDataType": 4,
+              "MinRange": 1.0,
+              "MaxRange": 1.0
+            },
+            {
+              "Name": "Content",
+              "SourceColumn": "Content",
+              "Description": "",
+              "SQLDataType": 1,
+              "MinRange": 1.0,
+              "MaxRange": 1.0
+            }
+          ]
+        },
+        "Row": [
+          {
+            "Status": 1,
+            "Content": "6003466~4020000429 / 000010~Midwest Metals Corporation~102~1.044~305"
+          }
+        ]
+      }
+    ]
+  }
+}
